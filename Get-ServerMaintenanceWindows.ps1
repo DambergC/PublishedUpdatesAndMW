@@ -13,7 +13,7 @@
 .OUTPUTS
    Output from this workflow (if any)
 .NOTES
-   General notes
+   Version 1.0
 .FUNCTIONALITY
    The functionality that best describes this workflow
 #>
