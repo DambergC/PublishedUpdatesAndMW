@@ -1,3 +1,4 @@
-CollectionID;ShortDescription;LongDescription
-PS100014;MEMCM-servrar;Servrar i MEMCM grupp 1
-PS100017;MEMCM-servrar;Servrar i MEMCM grupp 2222
+﻿CollectionID;LongDescription
+KV1001B3;Servrar Default 100
+KV1001B2;Servrar Default 200
+KV1001B4;Servrar Default 300
